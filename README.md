@@ -5,15 +5,19 @@
 ```
 + Home
   - Jquery Mobile
+  
 + About
   - Jquery Mobile
   - Bulma
+  
 + Stack
   - Jquery Mobile
   - BootStrap 5
+  
 + Projects
   - Jquery Mobile
   - Foundation
+  
 + Contact
   - Jquery Mobile
   - Materialize
