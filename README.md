@@ -3,7 +3,7 @@
 
 # 프레임워크 사용현황
 ```
-*Home
+* Home
   -Jquery Mobile
 +About
   -Jquery Mobile
