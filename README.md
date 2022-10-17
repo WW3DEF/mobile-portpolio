@@ -7,4 +7,15 @@
 ```HTML
 <div data-role="page" data-theme="a" id="Home">
   <div data-role="panel" id="mypanel" data-display="Reveal" data-theme="a">
+    <div data-role="header" data-theme="b" class="header" data-fullscreen="true" data-position="fixed">
+      
+    </div>
+    <div data-role="content">
+    
+    </div>
+    <div data-role="footer" data-theme="b" data-fullscreen="true" data-position="fixed">
+      
+    </div>
+  </div>
+</div>
 ```
