@@ -40,3 +40,18 @@
   </div>
 </div>
 ```
+### About 화면 ( JQUERY 모바일, Bulma )
+![image](https://user-images.githubusercontent.com/94514664/196275537-47f34ba0-700f-4aa2-b7cb-401b7400cd70.png)
+```HTML
+<div class="card" style="width: 30rem; position: absolute; left:30rem">
+                <div class="card-image">
+                  <figure class="image is-1by1" style="width: 30rem">
+                    <img src="./img/MyImage.png" alt="Placeholder image">
+                  </figure>
+                </div>
+   <div class="card-content">
+                  <div class="media">
+                    <div class="media-content">
+                      </div>
+                  </div>
+```
