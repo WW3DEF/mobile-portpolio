@@ -40,7 +40,7 @@
   </div>
 </div>
 ```
-### About 화면 ( JQUERY 모바일, Bulma )
+### About 화면 ( Bulma (Card기능 및 Grid 사용) )
 ![image](https://user-images.githubusercontent.com/94514664/196275537-47f34ba0-700f-4aa2-b7cb-401b7400cd70.png)
 ```HTML
 <div class="card" style="width: 30rem; position: absolute; left:30rem">
@@ -54,4 +54,26 @@
                     <div class="media-content">
                       </div>
                   </div>
+```
+### Stack 화면 ( BootStrap ( 프로그레스 바 기능 및 리스트 사용) )
+![image](https://user-images.githubusercontent.com/94514664/196276365-8719d850-e320-4aec-b0af-41ed6b594baf.png)
+```HTML
+<ul class="listgroup">
+                <li class="list-group-item"><img src="./img/html.png" width="70rem"><h3 style="display: inline-BLOCK">HTML 5</h3>
+                <div class="progress" style="width: 30%; margin-bottom: 2rem;">
+                    <div class="progress-bar" role="progressbar" aria-label="Example with label" style="width: 40%;" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100">40%</div>
+                </div></li>
+            <li class="list-group-item"><img src="./img/css.png" width="50rem"><h3 style="display: inline-BLOCK">CSS 3</h3>
+            <div class="progress" style="width: 30%; margin-bottom: 2rem;">
+                <div class="progress-bar" role="progressbar" aria-label="Example with label" style="width: 45%;" aria-valuenow="45" aria-valuemin="0" aria-valuemax="100">45%</div>
+            </div></li>
+            <li class="list-group-item"><img src="./img/js.png" width="60rem"><h3 style="display: inline-BLOCK">JavaScript</h3>
+            <div class="progress" style="width: 30%; margin-bottom: 2rem;">
+                <div class="progress-bar" role="progressbar" aria-label="Example with label" style="width: 30%;" aria-valuenow="30" aria-valuemin="0" aria-valuemax="100">30%</div>
+            </div></li>
+            <li class="list-group-item"><img src="./img/React.png" width="50rem"><h3 style="display: inline-BLOCK">React</h3>
+            <div class="progress" style="width: 30%;">
+                <div class="progress-bar" role="progressbar" aria-label="Example with label" style="width: 15%;" aria-valuenow="15" aria-valuemin="0" aria-valuemax="100">15%</div>
+            </div></li>
+            </ul>
 ```
