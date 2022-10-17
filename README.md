@@ -77,3 +77,17 @@
             </div></li>
             </ul>
 ```
+# Project 화면 ( Foundation ( Card기능 사용 ) )
+![image](https://user-images.githubusercontent.com/94514664/196276656-920a28ca-ee87-487e-a4df-15f451d3ff2e.png)
+```HTML
+ <div data-role="content">
+            <div class="row">
+                <div class="large-1">
+                    <div class="card" style="width: 500px;">
+                        <div class="card-divider">
+                          
+                           </div>
+                    </div>
+                </div>
+            </div>
+```
