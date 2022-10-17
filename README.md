@@ -91,3 +91,12 @@
                 </div>
             </div>
 ```
+# Contact 화면 ( Materialize ( icon 및 list Group기능 사용) )
+![image](https://user-images.githubusercontent.com/94514664/196277192-c94f3d22-1790-44ce-88e6-da378a5b993e.png)
+```HTML
+ <ul class="collection">
+                <li class="collection-item avatar">
+                  <i class="material-icons circle">call</i>
+                </li>
+ </ul>
+```
